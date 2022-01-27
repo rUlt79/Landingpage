@@ -1,0 +1,46 @@
+
+.First {
+    color: white;
+    background-color: hsl(240, 85%, 27%);
+    margin-top: 0px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-bottom: 15px;
+}
+
+a {
+    color: rgb(228, 218, 218);
+    padding-left: 15px;
+}
+
+.Fcontent {
+    border: 5px white;
+    background-color: rgb(13, 92, 156);
+    padding: 0px 250px;
+}
+
+.box-one {
+    display: flex;
+    padding-left: 20px;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    background-color:rgb(32, 169, 194, 0.8);
+}
+
+.iFcontent {
+    padding-left: 30px;
+    border-radius: 30px;
+}
+
+.text {
+    padding-top: 25px;
+}
+
+.subtext {
+    padding-top: -15px;
+}
+
