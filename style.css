@@ -20,7 +20,7 @@ a {
 .Fcontent {
     border: 5px white;
     background-color: rgb(13, 92, 156);
-    padding: 0px 250px;
+    padding: 50px 250px;
 }
 
 .box-one {
@@ -28,7 +28,7 @@ a {
     padding-left: 20px;
     border: 5px solid rgb(255, 255, 255);
     border-radius: 30px;
-    background-color:rgb(32, 169, 194, 0.8);
+    background-color:rgba(0, 0, 0);
 }
 
 .iFcontent {
@@ -40,7 +40,62 @@ a {
     padding-top: 25px;
 }
 
-.subtext {
-    padding-top: -15px;
+.Second {
+    background-color:rgb(13, 92, 156);
+    padding-top: 1px;
 }
+
+.Information, .info-container {
+    color: white;
+}
+
+.info-container {
+    border: 2px solid white;
+    border-radius: 20px;
+    padding-left: auto;
+    
+}
+.Information {
+    text-align: center;
+    font-size: 30px;
+}
+
+.container-two {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+img {
+    padding: 10px 15px 0px 15px;
+}
+
+p {
+    padding-left: 3px;
+}
+
+.Third {
+    background-color: rgb(13, 92, 156);
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Fourth {
+    background-color:rgb(13, 92, 156);
+    margin: 20px;
+    color: white;
+    text-align: center;
+}
+
+.footer {
+    background-color:hsl(240, 85%, 27%);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+
 
